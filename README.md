@@ -1,2 +1,1 @@
-0x0B. Python - Input/Output
-Python
+0x14. JavaScript - Web scraping
